@@ -1,4 +1,4 @@
-# NFT_Marketplace
+# NFT Marketplace
 ## Setting up you local machine:
 ```sh
 npm install # install all the node dependencies
